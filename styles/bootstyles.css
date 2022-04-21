@@ -1,0 +1,49 @@
+.header {
+    height: 30%;
+    width: 100%;
+    color: white;
+    font-size: 30pt;
+    background-color: #f8ab6b;
+}
+
+.menu {
+    color: white;
+    font-size: 12pt;
+    float: right;
+}
+
+body {
+    background-image:url("https://wallpapers.com/images/high/green-dots-on-white-background-30awtuhczbxaaqtq.jpg");
+    height: 60%;
+    width: 100%;
+}
+
+.footer {
+    bottom: 5pts;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    color: #fc892a;
+    font-size: 12pt;
+}
+
+a {
+    color:white
+}
+
+h3 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
